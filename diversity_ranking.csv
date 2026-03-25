@@ -1,0 +1,101 @@
+company_name,diversity_score,rank
+Lloyds Banking Group,0.491323943,1
+Landsec,0.479257416,2
+AstraZeneca,0.469912024,3
+Aviva,0.466210848,4
+GSK,0.461998896,5
+Haleon,0.461998896,5
+Shell,0.456526682,7
+Auto Trader,0.453054347,8
+Spirax-Sarco Engineering,0.452162226,9
+Burberry,0.450153335,10
+Halma,0.442739257,11
+M&G,0.441729675,12
+HSBC,0.439697273,13
+Natwest Group,0.439369893,14
+British American Tobacco,0.436158938,15
+Sainsbury’s,0.429252655,16
+RELX,0.42237417,17
+Diageo,0.422128524,18
+Rolls-Royce Holdings,0.421462028,19
+BT Group,0.416191531,20
+SSE plc,0.414107418,21
+Phoenix Group,0.410789368,22
+Informa,0.409073401,23
+National Grid plc,0.405238929,24
+Severn Trent,0.401472911,25
+Reckitt,0.399362707,26
+St. James's Place plc,0.398911437,27
+British Land,0.393380656,28
+3i,0.38569605,29
+Pearson plc,0.383256277,30
+Centrica,0.382715278,31
+Croda,0.378723881,32
+bp,0.378722735,33
+Vodafone Group,0.378203704,34
+Whitbread,0.377577293,35
+Rio Tinto Group,0.373573823,36
+Taylor Wimpey,0.372921531,37
+Experian,0.371571253,38
+Rentokil Initial,0.369968587,39
+BAE Systems,0.369802305,40
+Barclays,0.368087652,41
+B&M,0.363730166,42
+Hargreaves Lansdown,0.359170011,43
+Unilever,0.358717384,44
+Smith (DS),0.357820386,45
+Pershing Square Holdings,0.356350502,46
+JD Sports,0.355870301,47
+Associated British Foods,0.353158031,48
+Antofagasta,0.35060791,49
+ConvaTec,0.35023064,50
+Rightmove,0.349651301,51
+Smiths Group,0.348393226,52
+Standard Chartered,0.348105871,53
+Sage Group,0.345785807,54
+Admiral Group,0.339855998,55
+United Utilities,0.339329369,56
+NEXT,0.338582629,57
+Intermediate Capital Group,0.338463258,58
+RS Group,0.338216004,59
+Legal & General,0.337475172,60
+Ashtead Group,0.335474155,61
+International Airlines Group,0.334325662,62
+WPP,0.333521314,63
+Melrose Industries,0.331679455,64
+London Stock Exchange Group,0.331528319,65
+InterContinental Hotels Group,0.330665606,66
+Segro,0.32742676,67
+Barratt Developments,0.32608392,68
+Kingfisher,0.3241276,69
+Tesco,0.322439065,70
+Ocado,0.322147058,71
+Berkeley Group,0.316173423,72
+Flutter Entertainment,0.315228388,73
+Glencore,0.313962948,74
+Bunzl,0.313798434,75
+Imperial Brands,0.312829401,76
+Aveva,0.311927021,77
+Anglo American,0.311299997,78
+Coca-Cola HBC,0.311140666,79
+Smith & Nephew,0.310065546,80
+Persimmon plc,0.30897583,81
+DCC,0.308491049,82
+Schroders,0.307474084,83
+Prudential plc,0.305149091,84
+CRH,0.303420467,85
+Unite Group,0.303142169,86
+Mondi,0.301507247,87
+Compass Group,0.30001519,88
+Smurfit Kappa,0.296084671,89
+Intertek,0.2958458,90
+Meggitt,0.289027755,91
+Entain,0.280902979,92
+Endeavour Mining,0.273573743,93
+Dechra Pharmaceuticals,0.270010734,94
+Fresnillo,0.261479367,95
+Scottish Mortgage Investment Trust,0.256065645,96
+Airtel Africa,0.252343627,97
+Homeserve,0.251100457,98
+F&C Investment Trust,0.242080137,99
+Harbour Energy,0.225290482,100
